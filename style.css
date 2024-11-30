@@ -1,0 +1,12 @@
+body {
+  background-image: url(matcha.jpg);
+  background-repeat: no-repeat;
+  background-size:1374px 5374px;
+}
+
+h1 {
+  color: white;
+  background-color: #56833e;
+  text-align: center;
+  outline: 6px dotted white
+}
